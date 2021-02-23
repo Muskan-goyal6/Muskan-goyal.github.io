@@ -20,11 +20,23 @@ permalink: /publications/
     * [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0168169920302180?dgcid=coauthor) \| [PDF](https://drive.google.com/file/d/1SJvH64NdJMd4lR-tpuUVQdhhgUM9C5WJ/view?usp=sharing)
 
 * [**IEEE Access 2020**]
+
   * **CovidGAN: Data Augmentation using Auxiliary Classifier GAN for improved Covid-19 Detection**
 
-  * **Authors** : Abdul Waheed, **Muskan Goyal**, Deepak Gupta, Ashish Khanna, Fadi-Al-Turjman, P. Rogerio Pinheiro.
-  * **Abstract** : Proposed and implemented a GAN called CovidGAN that generated synthetic chest X-ray images to enhance the performance of CNN for Covid-19 detection. The research aimed at improved Covid-19 detection and more robust radiology systems.
-  * [Paper](https://ieeexplore.ieee.org/document/9093842?source=authoralert&pubid=ra-577dc9f623862778&ct=1&title=Share&pco=tbxnj-1.0) \| [PDF](https://drive.google.com/file/d/1OV77LvUqFpCtkLkzLdUwN_i6I4VycpVH/view)
+    * **Authors** : Abdul Waheed, **Muskan Goyal**, Deepak Gupta, Ashish Khanna, Fadi-Al-Turjman, P. Rogerio Pinheiro.
+    * **Abstract** : Proposed and implemented a GAN called CovidGAN that generated synthetic chest X-ray images to enhance the performance of CNN for Covid-19 detection. The research aimed at improved Covid-19 detection and more robust radiology systems.
+    * [Paper](https://ieeexplore.ieee.org/document/9093842?source=authoralert&pubid=ra-577dc9f623862778&ct=1&title=Share&pco=tbxnj-1.0) \| [PDF](https://drive.google.com/file/d/1OV77LvUqFpCtkLkzLdUwN_i6I4VycpVH/view)
+
+
+* [**ICICC 2021**]
+
+  * **Domain Controlled Title Generation with Human Evaluation**
+
+    * **Authors** : Abdul Waheed, **Muskan Goyal**, Nimisha Mittal, Deepak Gupta.
+    * **Abstract** : Proposed a method for generating domain-controlled titles for scientific papers using text-to-text
+    transformer model.(Accepted among top 20% papers in the 4th international conference on innovative
+    computing and communication)
+    * [Preprint] (https://easychair.org/publications/preprint_open/hvqR)
   
 
 
