@@ -36,6 +36,15 @@ permalink: /experience/
   * Frameworks: Python (TensorFlow and Keras) 
 
 </details>
+<br>
+
+<details>
+  
+<summary><b>Summer Fellow @ Indian Institue of Technology, Madras</b> [May 2014 - July 2014]</summary>
+
+  I was a part of Summer Fellowship Programme of IIT Madras and worked here under the guidance of [Prof. Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/) in the field of Statistical Machine Learning. I did a project on Collaborative Tweet Recommendation where I used Collaborative Filtering to efficiently recommend relevant tweets to users.
+
+</details>
 
 <br>
 <br>
