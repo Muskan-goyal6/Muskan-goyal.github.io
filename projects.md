@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: /projectsDepricated/
+permalink: /projects/
 ---
 
 ### [IMAGE CAPTION BOT](https://github.com/Muskan-goyal6/ImageCaptionBot)
