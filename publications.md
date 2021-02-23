@@ -28,7 +28,7 @@ permalink: /publications/
     * [Paper](https://ieeexplore.ieee.org/document/9093842?source=authoralert&pubid=ra-577dc9f623862778&ct=1&title=Share&pco=tbxnj-1.0) \| [PDF](https://drive.google.com/file/d/1OV77LvUqFpCtkLkzLdUwN_i6I4VycpVH/view)
 
 
-* [** Preprint ICICC 2021**]
+* [**ICICC 2021**]
 
   * **Domain Controlled Title Generation with Human Evaluation**
 
@@ -36,7 +36,7 @@ permalink: /publications/
     * **Abstract** : Proposed a method for generating domain-controlled titles for scientific papers using text-to-text
     transformer model. (**Accepted among top 20% papers in the 4th international conference on innovative
     computing and communication**)
-    * [Paper] (https://easychair.org/publications/preprint_open/hvqR)
+    * [Preprint](https://easychair.org/publications/preprint_open/hvqR)
   
 
 
