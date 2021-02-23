@@ -16,8 +16,8 @@ permalink: /publications/
   * **An optimized dense convolutional neural network model for disease recognition and classification in corn leaf**
     
     * **Authors** : Abdul Waheed, **Muskan Goyal**, Deepak Gupta, Ashish Khanna, Aboul Ella Hassanien, Hari Mohan Pandey.
-    * **Abstract** :Proposed and implemented an optimised DenseNet model which has been contrasted with the current CNN architectures by considering two (time and accuracy) quality measures. The study indicated that the performance of the optimised DenseNet model was close to that of the established CNN architectures with far fewer parameters and computation time.
-      * [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0168169920302180?dgcid=coauthor) \| [PDF](https://drive.google.com/file/d/1SJvH64NdJMd4lR-tpuUVQdhhgUM9C5WJ/view?usp=sharing)
+    * **Abstract** : Proposed and implemented an optimised DenseNet model which has been contrasted with the current CNN architectures by considering two (time and accuracy) quality measures. The study indicated that the performance of the optimised DenseNet model was close to that of the established CNN architectures with far fewer parameters and computation time.
+    * [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0168169920302180?dgcid=coauthor) \| [PDF](https://drive.google.com/file/d/1SJvH64NdJMd4lR-tpuUVQdhhgUM9C5WJ/view?usp=sharing)
 
 * [**IEEE Access 2020**]
   * **CovidGAN: Data Augmentation using Auxiliary Classifier GAN for improved Covid-19 Detection**
