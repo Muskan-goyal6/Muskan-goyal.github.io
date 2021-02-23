@@ -39,6 +39,11 @@ permalink: /publications/
     * [Preprint](https://easychair.org/publications/preprint_open/hvqR)
   
 
+<br>
+<br>
+<center> <img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits"> </center>
+
+
 
 <!-- ### Datasets<a name="datasets"></a>
 
