@@ -32,8 +32,8 @@ permalink: /experience/
 <summary><b>Undergraduate Researcher, collaborated with professors from Cairo University, Egypt and Edge Hill University, Lancashire, England.</b> [September 2019]</summary>
 
  
-  * Proposed and implemented an optimised DenseNet model which has been contrasted with the current CNN architectures by considering two (time and accuracy) quality measures. The study indicated that the performance of the optimised DenseNet model was close to that of the established CNN architectures with far fewer parameters and computation time. Paper published in Computers and Electronics in Agriculture, Elsevier.
-  * Frameworks: Python (TensorFlow and Keras) 
+  - Proposed and implemented an optimised DenseNet model which has been contrasted with the current CNN architectures by considering two (time and accuracy) quality measures. The study indicated that the performance of the optimised DenseNet model was close to that of the established CNN architectures with far fewer parameters and computation time. Paper published in Computers and Electronics in Agriculture, Elsevier.
+  - Frameworks: Python (TensorFlow and Keras) 
 
 </details>
 <br>
