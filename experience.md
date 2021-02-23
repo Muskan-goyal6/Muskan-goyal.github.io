@@ -20,6 +20,8 @@ permalink: /experience/
   
 <summary><b>Undergraduate Researcher, collaborated with professors from Near East University, Mersin, Turkey and State University of Ceará, Brazil.</b> [March 2020]</summary>
 
+ Following are the points:
+
  * Proposed and implemented a GAN called CovidGAN that generated synthetic chest X-ray images to enhance the performance of CNN for Covid-19 detection. The research aimed at improved Covid-19 detection and more robust radiology systems. Paper published in IEEE Access
  * Framework: Python (Keras)
 
