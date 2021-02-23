@@ -15,15 +15,15 @@ permalink: /publications/
 
   * **An optimized dense convolutional neural network model for disease recognition and classification in corn leaf**
     
-    Abdul Waheed, **Muskan Goyal**, Deepak Gupta, Ashish Khanna, Aboul Ella Hassanien, Hari Mohan Pandey.
-    Proposed and implemented an optimised DenseNet model which has been contrasted with the current CNN architectures by considering two (time and accuracy) quality measures. The study indicated that the performance of the optimised DenseNet model was close to that of the established CNN architectures with far fewer parameters and computation time.
+    * **Authors** : Abdul Waheed, **Muskan Goyal**, Deepak Gupta, Ashish Khanna, Aboul Ella Hassanien, Hari Mohan Pandey.
+    * **Abstract** :Proposed and implemented an optimised DenseNet model which has been contrasted with the current CNN architectures by considering two (time and accuracy) quality measures. The study indicated that the performance of the optimised DenseNet model was close to that of the established CNN architectures with far fewer parameters and computation time.
       * [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0168169920302180?dgcid=coauthor) \| [PDF](https://drive.google.com/file/d/1SJvH64NdJMd4lR-tpuUVQdhhgUM9C5WJ/view?usp=sharing)
 
 * [**IEEE Access 2020**]
   * **CovidGAN: Data Augmentation using Auxiliary Classifier GAN for improved Covid-19 Detection**
 
-  Abdul Waheed, **Muskan Goyal**, Deepak Gupta, Ashish Khanna, Fadi-Al-Turjman, P. Rogerio Pinheiro.
-  Proposed and implemented a GAN called CovidGAN that generated synthetic chest X-ray images to enhance the performance of CNN for Covid-19 detection. The research aimed at improved Covid-19 detection and more robust radiology systems.
+  * **Authors** : Abdul Waheed, **Muskan Goyal**, Deepak Gupta, Ashish Khanna, Fadi-Al-Turjman, P. Rogerio Pinheiro.
+  * **Abstract** : Proposed and implemented a GAN called CovidGAN that generated synthetic chest X-ray images to enhance the performance of CNN for Covid-19 detection. The research aimed at improved Covid-19 detection and more robust radiology systems.
   * [Paper](https://ieeexplore.ieee.org/document/9093842?source=authoralert&pubid=ra-577dc9f623862778&ct=1&title=Share&pco=tbxnj-1.0) \| [PDF](https://drive.google.com/file/d/1OV77LvUqFpCtkLkzLdUwN_i6I4VycpVH/view)
   
 

@@ -1,6 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+type: blog
+title: <center>You're up and running!</center>
+comments: true
+mathjax: true
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
