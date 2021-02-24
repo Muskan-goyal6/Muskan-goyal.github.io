@@ -43,7 +43,6 @@ permalink: /experience/
 <br>
 <br>
 
-<center> <img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits"> </center>
-
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fmuskan-goyal6.github.io%2F" alt="Hits">
 
 
